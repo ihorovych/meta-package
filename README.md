@@ -8,7 +8,7 @@
 ## How to use
 
 ```js
-    import concat from 'meta-package'
+    import concat from '@ihorovych/meta-package'
 
     const result = concat(a, b);
 ```
