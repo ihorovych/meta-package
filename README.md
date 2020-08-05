@@ -2,7 +2,7 @@
 
 ## How to install
 ```bash
-    npm i meta-package -S
+    npm i @ihorovych/meta-package
 ```
 
 ## How to use
